@@ -1,3 +1,14 @@
-.taskHeader {
-  /* Sample */
+h1{
+  /* background: rgba(231, 128, 231, 0.8); */
+  background-color: rgba(46, 139, 87, 0.8);
+  padding: 10px;
+  color: white;
+  font-family: monospace;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.small{
+  font-size: 20px;
+  font-family: monospace;
+  line-height: 2;
 }
